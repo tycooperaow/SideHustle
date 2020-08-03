@@ -15,7 +15,7 @@ Feel free to share, provide any suggestions, and contribute if you ever have any
 - [Offline Hustles](#offline-hustles)
 - [Personal Finance](#personal-finance)
 - [Stock Trading](#stock-trading)
-- [Cryptocurrency](#cryptocurrency)
+- [Cryptocurrency](/cryptocurrency)
 - [News](#news)
 - [Community](#community)
 - [Podcasts](#podcasts)
