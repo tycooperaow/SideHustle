@@ -151,3 +151,8 @@ This guide will list out all the helpful resources and tools to navigate learnin
 - [Vosk Coin](https://www.youtube.com/channel/UCT44w6854K62cSiwA1aiXfw)
 - [Chico Crypto](https://www.youtube.com/channel/UCHop-jpf-huVT1IYw79ymPw)
 - [Defi Chris](https://www.youtube.com/channel/UCuulLHp0eyXnl9yAao_pbEA)
+
+
+---
+
+If you like to support me and or the server feel free to do so: [Donate With Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=H2Z7S9PJTKHMU&source=url) or Send me Eth: 0xf99496609014B7c5a8378ec814Fb6F85Dbd8bdcE
